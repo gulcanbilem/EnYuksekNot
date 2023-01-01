@@ -1,0 +1,8 @@
+C:\Users\gulca\OneDrive\Masaüstü\EnYuksekNotAlanlar\obj\Debug\EnYuksekNotAlanlar.csproj.AssemblyReference.cache
+C:\Users\gulca\OneDrive\Masaüstü\EnYuksekNotAlanlar\obj\Debug\EnYuksekNotAlanlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulca\OneDrive\Masaüstü\EnYuksekNotAlanlar\obj\Debug\EnYuksekNotAlanlar.csproj.CoreCompileInputs.cache
+C:\Users\gulca\OneDrive\Masaüstü\EnYuksekNotAlanlar\bin\Debug\EnYuksekNotAlanlar.exe.config
+C:\Users\gulca\OneDrive\Masaüstü\EnYuksekNotAlanlar\bin\Debug\EnYuksekNotAlanlar.exe
+C:\Users\gulca\OneDrive\Masaüstü\EnYuksekNotAlanlar\bin\Debug\EnYuksekNotAlanlar.pdb
+C:\Users\gulca\OneDrive\Masaüstü\EnYuksekNotAlanlar\obj\Debug\EnYuksekNotAlanlar.exe
+C:\Users\gulca\OneDrive\Masaüstü\EnYuksekNotAlanlar\obj\Debug\EnYuksekNotAlanlar.pdb
